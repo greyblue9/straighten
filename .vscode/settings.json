@@ -1,0 +1,8 @@
+{
+    "gotoSymbolStack.currentStackPosition": 0,
+    "gotoSymbolStack.maxStackPosition": 0,
+    "gotoSymbolStack.filePositionInfo": [],
+    "python.linting.mypyEnabled": true,
+    "python.linting.prospectorEnabled": false,
+    "python.linting.enabled": true
+}
